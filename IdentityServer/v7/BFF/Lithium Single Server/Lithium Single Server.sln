@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34310.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular.Bff", "Angular.Bff\Angular.Bff.csproj", "{5E2E7B6B-24F1-4890-B802-0174F1E0E1C4}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular.BffSingle", "Angular.Bff\Angular.BffSingle.csproj", "{FB891B64-BD63-47FD-93E5-A98D026CD6A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5E2E7B6B-24F1-4890-B802-0174F1E0E1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E2E7B6B-24F1-4890-B802-0174F1E0E1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E2E7B6B-24F1-4890-B802-0174F1E0E1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB891B64-BD63-47FD-93E5-A98D026CD6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB891B64-BD63-47FD-93E5-A98D026CD6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB891B64-BD63-47FD-93E5-A98D026CD6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB891B64-BD63-47FD-93E5-A98D026CD6A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
